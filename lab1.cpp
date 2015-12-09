@@ -1,8 +1,7 @@
 #include <iostream>
-
 using namespace std;
 int main()
 {
-cout << "Lab1" << endl;
+cout << "LAb1" << endl;
 return 0;
 }
